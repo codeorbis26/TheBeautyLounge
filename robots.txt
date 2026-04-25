@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://thebeautylounge.in/sitemap.xml
+Sitemap: https://thebeauty-lounge.in/sitemap.xml
