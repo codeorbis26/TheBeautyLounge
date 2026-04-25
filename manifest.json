@@ -1,0 +1,21 @@
+{
+  "name": "The Beauty Lounge",
+  "short_name": "Beauty Lounge",
+  "description": "Premium unisex salon offering top-notch hair, skin, and makeup services in Anand.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#c9a96e",
+  "icons": [
+    {
+      "src": "images/Logo.jpeg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "images/Logo.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ]
+}
